@@ -1,0 +1,38 @@
+[
+  {
+    "id": "present_001",
+    "memory_frame": "present",
+    "questionnaire_data": {
+      "life_chapter": "fast_paced",
+      "daily_feeling": ["confident", "energized"],
+      "scent_direction": "woody",
+      "social_context": "work",
+      "projection": "balanced"
+    },
+    "free_text_memory": "Leading a team, always on the move, need something grounding"
+  },
+  {
+    "id": "present_002",
+    "memory_frame": "present",
+    "questionnaire_data": {
+      "life_chapter": "balanced",
+      "daily_feeling": ["calm", "elegant"],
+      "scent_direction": "floral",
+      "social_context": "everyday",
+      "projection": "skin_close"
+    },
+    "free_text_memory": "Finding peace in the everyday, mornings with tea"
+  },
+  {
+    "id": "present_003",
+    "memory_frame": "present",
+    "questionnaire_data": {
+      "life_chapter": "explorative",
+      "daily_feeling": ["energized", "confident"],
+      "scent_direction": "fresh_citrus",
+      "social_context": "evening",
+      "projection": "statement"
+    },
+    "free_text_memory": "Trying new things, meeting new people, city nights"
+  }
+]

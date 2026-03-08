@@ -1,0 +1,41 @@
+[
+  {
+    "id": "past_001",
+    "memory_frame": "past",
+    "questionnaire_data": {
+      "memory_description": "Walking through my grandmother's rose garden",
+      "emotions": ["nostalgia", "love", "peace"],
+      "air_texture": "warm",
+      "scent_hints": ["floral", "earthy", "green"],
+      "intensity_memory": "rich",
+      "skin_sensitivity": "balanced"
+    },
+    "free_text_memory": "Sunday mornings, roses in full bloom, warm soil and morning dew"
+  },
+  {
+    "id": "past_002",
+    "memory_frame": "past",
+    "questionnaire_data": {
+      "memory_description": "Holding my newborn for the first time",
+      "emotions": ["love", "comfort", "joy"],
+      "air_texture": "warm",
+      "scent_hints": ["clean", "sweet"],
+      "intensity_memory": "soft",
+      "skin_sensitivity": "very_gentle"
+    },
+    "free_text_memory": "The hospital room, that clean warmth, overwhelming love"
+  },
+  {
+    "id": "past_003",
+    "memory_frame": "past",
+    "questionnaire_data": {
+      "memory_description": "A childhood summer by the sea",
+      "emotions": ["joy", "excitement", "nostalgia"],
+      "air_texture": "fresh",
+      "scent_hints": ["clean", "green", "floral"],
+      "intensity_memory": "gentle",
+      "skin_sensitivity": "balanced"
+    },
+    "free_text_memory": "Salt air, sunscreen, laughter, freedom"
+  }
+]

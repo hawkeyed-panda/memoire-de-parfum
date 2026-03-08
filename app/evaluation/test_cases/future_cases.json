@@ -1,0 +1,38 @@
+[
+  {
+    "id": "future_001",
+    "memory_frame": "future",
+    "questionnaire_data": {
+      "future_moment": "wedding",
+      "emotional_intention": ["radiant", "emotional"],
+      "desired_impression": ["timeless", "elegant"],
+      "scent_imagination": "soft_floral",
+      "longevity": "lasting"
+    },
+    "free_text_memory": "My wedding day — I want to remember this forever"
+  },
+  {
+    "id": "future_002",
+    "memory_frame": "future",
+    "questionnaire_data": {
+      "future_moment": "career_milestone",
+      "emotional_intention": ["empowered", "confident"],
+      "desired_impression": ["memorable", "bold"],
+      "scent_imagination": "deep_woody",
+      "longevity": "lasting"
+    },
+    "free_text_memory": "Presenting to the board, stepping into my power"
+  },
+  {
+    "id": "future_003",
+    "memory_frame": "future",
+    "questionnaire_data": {
+      "future_moment": "travel",
+      "emotional_intention": ["radiant", "grounded"],
+      "desired_impression": ["intimate", "timeless"],
+      "scent_imagination": "fresh_luminous",
+      "longevity": "evolving"
+    },
+    "free_text_memory": "Solo trip to Japan — new chapter, new me"
+  }
+]
